@@ -1,0 +1,3 @@
+Angled Walls Alias 1.0 by Jat15 28/09/2018
+
+Alias for Angled Walls, and Angled Glass in minetest.
